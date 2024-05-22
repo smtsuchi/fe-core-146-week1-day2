@@ -1,0 +1,36 @@
+#find-me {
+    background-color: pink;
+}
+
+.color-me-blue {
+    background-color: blue;
+}
+.color-me-red {
+    background-color: red;
+}
+
+
+input {
+    background-color: green;
+}
+
+
+.rounded-button {
+    border-radius: 20px;
+    color: white;
+    font-weight: bolder;
+}
+
+.squared-button {
+    border-radius: 20px;
+    color: white;
+    font-weight: bolder;
+}
+
+.green-button{
+    background-color: green;
+}
+.pink-button{
+    background-color: pink;
+    color: black
+}
